@@ -2,6 +2,8 @@
 
 > A complete data analyst workflow: raw CSV → quality audit → Excel cleaning → pivot dashboard → strategic recommendations
 
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQzlE_sNIj1enmltWT_2va2nHYZdwvtYLgnLoUJdUyJzdrlwvNvSPFZd1-CKHeDF-xmmbGiOK6jnpi4/pubhtml
+
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-Cleaned_%26_Dashboarded-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Project_Status-Complete-2E7D32?style=flat-square)
